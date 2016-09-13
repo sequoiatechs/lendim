@@ -228,11 +228,11 @@
   color: #fff;
 }
 #back-top.yellow .link {
-  border-color: #febd11;
-  color: #febd11;
+  border-color: #4C66A4;
+  color: #4C66A4;
 }
 #back-top.yellow .link:hover {
-  background-color: #febd11;
+  background-color: #4C66A4;
   color: #fff;
 }
 /*
@@ -1280,10 +1280,12 @@ section.page-banner.page-service {
 .wrapper-serve .main-text .timeline-text {
   padding-left: 0;
   margin-bottom: 0;
+  text-align: justify;
 }
 .wrapper-serve .main-text .timeline-text:before {
   left: -40px;
   height: 2px;
+  text-align: justify;
 }
 .wrapper-serve .main-text .text-number {
   font-size: 72px;
@@ -5840,6 +5842,7 @@ textarea.form-textarea {
   font-size: 14px;
   z-index: 0;
   background-color: transparent;
+  text-align: justify;
 }
 .who-01 .author {
   display: inline-block;
@@ -6886,7 +6889,7 @@ textarea.form-textarea {
 ----------  HOME financial  ----------
 */
 .bg-header-insurance .header-topbar a.item:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .bg-header-insurance .link-page {
   min-width: 220px;
@@ -6896,29 +6899,29 @@ textarea.form-textarea {
 }
 .bg-header-insurance .link-page:hover,
 .bg-header-insurance .link-page:focus {
-  color: #febd11;
+  color: #4C66A4;
 }
 .bg-header-insurance .link-page:hover:after,
 .bg-header-insurance .link-page:focus:after {
-  color: #febd11;
+  color: #4C66A4;
 }
 .bg-header-insurance ul.navbar-nav > li:hover > a.main-menu {
-  color: #febd11;
+  color: #4C66A4;
 }
 .bg-header-insurance ul.navbar-nav > li:hover > a.main-menu .text:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .bg-header-insurance ul.navbar-nav a.main-menu span.text:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .bg-header-insurance .btn-hamburger .icon-bar {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .bg-header-insurance .btn-hamburger .icon-bar:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .bg-header-insurance .btn-hamburger .icon-bar:after {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .home-insurance {
   margin-top: 0;
@@ -6929,40 +6932,40 @@ textarea.form-textarea {
   color: #fff;
 }
 .home-insurance .btn-main {
-  background-color: #febd11;
+  background-color: #4C66A4;
   color: #444;
 }
 .home-insurance .btn-main:hover {
   background-color: #fff;
-  color: #febd11;
+  color: #4C66A4;
 }
 .home-insurance .btn-light:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .footer-insurance .title:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .footer-insurance .about-us .social-list .link:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .footer-insurance .contact-item:hover .description,
 .footer-insurance .contact-item:hover .fa {
-  color: #febd11;
+  color: #4C66A4;
 }
 .footer-insurance .fa .number:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .footer-insurance .description .number:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .footer-insurance .description .alt-number:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .footer-insurance .twitter .link-wg:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .footer-insurance .thumb .dh-overlay {
-  background-color: #febd11;
+  background-color: #4C66A4;
   opacity: 0.4;
 }
 .mixin-title-startup .title-wrapper.title-wrapper-main .subtitle:before {
@@ -7685,11 +7688,11 @@ textarea.form-textarea {
 }
 /*      Homepage Insurance         */
 .mixin-title-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .mixin-title-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .goahead-insurance .title-wrapper.title-wrapper-main .subtitle:before,
 .goahead-insurance .title-wrapper.title-wrapper-main .title {
@@ -7722,11 +7725,11 @@ textarea.form-textarea {
   box-shadow: none;
 }
 .goahead-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .goahead-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .goahead-insurance.who .banner-left:before {
   background-color: transparent;
@@ -7765,7 +7768,7 @@ textarea.form-textarea {
   display: none;
 }
 .stats-insurance {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .stats-insurance .count {
   color: #555;
@@ -7779,11 +7782,11 @@ textarea.form-textarea {
   margin-right: -15px;
 }
 .service-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .service-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .service-insurance .service-financial {
   padding-bottom: 0;
@@ -7797,7 +7800,7 @@ textarea.form-textarea {
 }
 .service-insurance .col-md-4 .service-02-intro:hover .title,
 .service-insurance .col-md-4 .service-02-intro:focus .title {
-  color: #febd11;
+  color: #4C66A4;
 }
 .service-insurance .col-md-4 .service-02-intro .title {
   text-transform: none;
@@ -7806,15 +7809,15 @@ textarea.form-textarea {
   padding: 0 30px;
 }
 .service-insurance .col-md-4 .service-02-intro:before {
-  border-left: 1px solid #febd11;
-  border-right: 1px solid #febd11;
+  border-left: 1px solid #4C66A4;
+  border-right: 1px solid #4C66A4;
 }
 .service-insurance .col-md-4 .service-02-intro:after {
-  border-top: 1px solid #febd11;
-  border-bottom: 1px solid #febd11;
+  border-top: 1px solid #4C66A4;
+  border-bottom: 1px solid #4C66A4;
 }
 .service-insurance .col-md-4 .service-02-intro .icon:before {
-  color: #febd11;
+  color: #4C66A4;
   padding: 0 50px;
 }
 .who.works-insurance {
@@ -7825,14 +7828,14 @@ textarea.form-textarea {
   background-position: center left 0;
 }
 .works-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .works-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .works-insurance.who-accountant-banner .who-content:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   opacity: 1;
 }
 .works-insurance .title-wrapper.title-wrapper-main .title {
@@ -7878,7 +7881,7 @@ textarea.form-textarea {
   border: none;
 }
 .works-insurance .content-wrapper .btn-dark:hover {
-  color: #febd11;
+  color: #4C66A4;
   border-color: #fff;
   border: solid 1px;
   background-color: #fff;
@@ -7887,21 +7890,21 @@ textarea.form-textarea {
   padding-left: 50px;
 }
 .works-insurance .banner-left:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .testimonial-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .testimonial-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .testimonial-insurance .w3-icon {
-  color: #febd11;
+  color: #4C66A4;
 }
 .testimonial-insurance .slick-dots li.slick-active button {
-  color: #febd11;
-  border-color: #febd11;
+  color: #4C66A4;
+  border-color: #4C66A4;
 }
 .project-insurance .portfolio-project-5 .nav-tabs > li.port-item.active > a {
   color: #444;
@@ -7917,14 +7920,14 @@ textarea.form-textarea {
   padding-bottom: 0;
 }
 .project-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .project-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .project-insurance .tab-menu {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .project-insurance .grid-accountant .inner {
   left: 5px;
@@ -7936,16 +7939,16 @@ textarea.form-textarea {
   margin: 5px -5px;
 }
 .project-insurance .portfolio-project-5 .more h5 {
-  color: #febd11;
+  color: #4C66A4;
 }
 .project-insurance .portfolio-project-5 .more h5 .checkme {
-  color: #febd11;
+  color: #4C66A4;
 }
 .project-insurance .portfolio-project-5 .more h5 .checkme:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .project-insurance .portfolio-project-5 .pic .dh-overlay {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .project-insurance .portfolio ul.nav-tabs {
   padding-top: 40px;
@@ -7956,26 +7959,26 @@ textarea.form-textarea {
   margin-bottom: 20px;
 }
 .people-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .people-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .people-insurance .member-label {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .people-insurance .member-label .name,
 .people-insurance .member-label .position {
   color: #555;
 }
 .achievement-insurance .btn-main {
-  background-color: #febd11;
+  background-color: #4C66A4;
   color: #444;
 }
 .achievement-insurance .btn-main:hover {
   background-color: #fff;
-  color: #febd11;
+  color: #4C66A4;
 }
 .achievement-insurance .banner-right .wrapper-img {
   opacity: 0.4;
@@ -7984,23 +7987,23 @@ textarea.form-textarea {
   opacity: 1;
 }
 .update-insurance .title-wrapper.title-wrapper-main .subtitle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
   bottom: 20px;
 }
 .update-insurance .title-wrapper.title-wrapper-main .last-word {
-  color: #febd11;
+  color: #4C66A4;
 }
 .update-insurance .wp-img:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .update-insurance .date:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .update-insurance .article-title:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .update-insurance .readmore:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 .update-insurance .article {
   margin-left: -15px;
@@ -8017,7 +8020,7 @@ textarea.form-textarea {
   color: #555;
 }
 .newsletter-insurance .banner-middle:before {
-  background-color: #febd11;
+  background-color: #4C66A4;
 }
 .newsletter-insurance .banner-main-middle .banner-middle-title {
   color: #555;
@@ -8029,10 +8032,10 @@ textarea.form-textarea {
   color: #555;
 }
 .newsletter-insurance .banner-right .brand {
-  color: #febd11;
+  color: #4C66A4;
 }
 .newsletter-insurance .signup .submit:hover {
-  color: #febd11;
+  color: #4C66A4;
 }
 /*
 =====  End of PLUGIN  ======
