@@ -175,7 +175,7 @@ a:hover {
   background-image: url("../img/background/who-banner-alt.jpg");
 }
 .stats-02-banner {
-  background-image: url("../img/background/stats-banner.jpg");
+  background-image: url("../img/background/stats-banner.png");
 }
 .achievement-banner {
   background-image: url("../img/background/achievement-banner.jpg");
@@ -385,7 +385,7 @@ a:hover {
   top: -120px !important;
 }
 .header-main .logo {
-  width: 150px;
+  width: 330px;
 }
 .header-main .pull-right {
   padding-right: 0;

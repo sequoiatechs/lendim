@@ -1318,7 +1318,7 @@ section.page-banner.page-service {
   -webkit-transform: scale(1);
 }
 .warpper-plan {
-  background-image: url("../img/service/bg-service-plan.jpg");
+  background-image: url("../img/service/bg-service-plan.png");
 }
 .warpper-plan .page-title {
   color: #fff;
@@ -3170,7 +3170,7 @@ textarea.form-textarea {
   border-color: #fff;
 }
 .homepage-02 .page-banner {
-  height: 100vh;
+  height: 70vh;
 }
 .homepage-02 .content-wrapper .title,
 .homepage-02 .content-wrapper .subtitle {
@@ -5809,11 +5809,11 @@ textarea.form-textarea {
   font-size: 14px;
 }
 .who.who-01 {
-  background-size: cover;
+  /*background-size: cover;*/
   -webkitbackground-size: cover;
 }
 .who-01 {
-  background-image: url("../img/homepage-banking/bg-who.jpg");
+  background-image: url("../img/homepage-banking/bg-who.png");
   background-position: 600px 0;
 }
 .who-01 .title-wrapper.title-wrapper-main .subtitle:before {
@@ -6638,12 +6638,12 @@ textarea.form-textarea {
   position: relative;
   margin-bottom: 60px;
 }
-.service-financial .col-md-4 .service-02-intro:hover:before,
+/*.service-financial .col-md-4 .service-02-intro:hover:before,
 .service-financial .col-md-4 .service-02-intro:hover:after {
   transform: scale(1);
-}
+}*/
 .service-financial .col-md-4 .service-02-intro:hover .title {
-  color: #1b6f9b;
+  /*color: #1b6f9b;*/
 }
 .service-financial .col-md-4 .service-02-intro:before,
 .service-financial .col-md-4 .service-02-intro:after {
