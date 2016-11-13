@@ -2738,8 +2738,9 @@ textarea.form-textarea {
 =======       CONTACT       =======
 ==================================*/
 .page-contact {
-  background-image: url(../img/background/bg-contact.jpg);
-  background-position: right bottom;
+  background-image: url(../img/background/bg-contact.png);
+  /*background-position: right bottom;*/
+  background-size: cover;
 }
 .title-box-contact {
   font-size: 20px;
