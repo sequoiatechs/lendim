@@ -4512,6 +4512,7 @@ textarea.form-textarea {
 }
 .finance-3 .wp-box {
   text-align: center;
+  background-image: url('../img/bg-security.png');
 }
 .finance-3 .title-wrapper.title-wrapper-main .subtitle:before {
   left: 43%;

@@ -2,7 +2,7 @@ jQuery(function($){
     "use strict";
 
     var SLZ = window.SLZ || {};
-    
+
 
     /*=======================================
     =             MAIN FUNCTION             =
@@ -189,7 +189,7 @@ jQuery(function($){
                         }
                     ]
                 }
-            ], 
+            ],
             {
                 name: 'Custom Style'
         });
@@ -220,9 +220,9 @@ jQuery(function($){
             var marker = new google.maps.Marker({
                 position: markerLatLng,
                 map: map,
-                animation:google.maps.Animation.BOUNCE, 
+                animation:google.maps.Animation.BOUNCE,
                 icon: image,
-                title: 'GoAhead Co.Ltd'
+                title: 'Lendim Co.Ltd'
             });
 
         }
@@ -233,10 +233,10 @@ jQuery(function($){
     /*======================================
     =            INIT FUNCTIONS            =
     ======================================*/
-    
+
     $(document).ready(function(){
         SLZ.mainFunction();
     });
-    
+
     /*=====  End of INIT FUNCTIONS  ======*/
 });
