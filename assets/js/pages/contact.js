@@ -11,8 +11,8 @@ jQuery(function($){
     SLZ.mainFunction = function(){
 
         /*Google map*/
-        var myLatLng = {lat: -30.869640, lng: 151.094009};
-        var markerLatLng = {lat: -30.869640, lng: 151.094009};
+        var myLatLng = {lat: -0.184979, lng: -78.47457};
+        var markerLatLng = {lat: -0.184979, lng: -78.47457};
         var customMapType = new google.maps.StyledMapType(
             [
                 {

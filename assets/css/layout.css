@@ -139,10 +139,10 @@ a:hover {
   margin-bottom: 30px;
 }
 .banner-01 {
-  background-image: url("../img/background/homepage-banner-01.png");
+  background-image: url("../img/background/homepage-banner-01.jpeg");
 }
 .banner-02 {
-  background-image: url("../img/background/homepage-banner-02.jpg");
+  background-image: url("../img/background/homepage-banner-02.png");
 }
 .banner-03 {
   background-image: url("../img/background/homepage-banner-03.png");
@@ -166,7 +166,7 @@ a:hover {
   background-image: url("../img/background/service-banner.jpg");
 }
 .who-banner {
-  background-image: url("../img/background/active-working-group.jpg");
+  background-image: url("../img/background/active-working-group.png");
 }
 .testimonial-dark-banner {
   background-image: url("../img/background/active-working-group.jpg");
@@ -187,7 +187,7 @@ a:hover {
   background-image: url("../img/background/newsletter-banner.jpg");
 }
 .footer-main {
-  background-image: url("../img/footer/footer-background.jpg");
+  background-image: url("../img/footer/footer-background.png");
 }
 .bg-footer-1 {
   background-image: url("../img/footer/footer-1-background.jpg");
