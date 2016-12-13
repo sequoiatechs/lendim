@@ -2328,11 +2328,19 @@
   /*
     ----------  0.2. Section Title  ----------
     */
+
+  .header-main .logo{
+    width: 230px;
+  }
   .title-wrapper .subtitle {
     font-size: 3.57143rem;
     letter-spacing: 4px;
   }
+
   .title-wrapper .title {
+    font-size: 1.42857rem;
+  }
+  .title-wrapper .title .izq{
     font-size: 1.42857rem;
     margin-left: -90px;
   }
